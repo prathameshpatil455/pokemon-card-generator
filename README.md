@@ -17,6 +17,9 @@ This project is a Pokémon Card Generator designed to create random Pokémon car
     <img src="https://github.com/prathameshpatil455/pokemon-card-generator/blob/main/screenshots/Screenshot-3.png" alt="Alt Text" width="400px" height="500px">
 </div>
 
+## Try it out
+
+[Live Demo](https://prathameshpatil455.github.io/pokemon-card-generator/)
 
 
 ## Installation
